@@ -1,2 +1,2 @@
-# network-connection-debugger
+# Network connection debugger
 Docker container with tools to debug network connections
